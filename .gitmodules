@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MetaLonDA"]
+	path = MetaLonDA
+	url = https://github.com/aametwally/metalonda
+	shallow = true
+	registered = true
+[submodule "OmicsLonDA"]
+	path = OmicsLonDA
+	url = https://github.com/aametwally/omicslonda
+	shallow = true
+	registered = true
