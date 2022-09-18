@@ -2,5 +2,8 @@
   {
     "package": "MetaLonDA",
     "oncran": true
+  },
+  {
+    "package": "OmicsLonDA"
   }
 ]
