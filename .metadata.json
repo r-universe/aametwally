@@ -1,9 +1,9 @@
 [
   {
-    "package": "MetaLonDA",
-    "oncran": true
+    "package": "OmicsLonDA"
   },
   {
-    "package": "OmicsLonDA"
+    "package": "MetaLonDA",
+    "oncran": true
   }
 ]
