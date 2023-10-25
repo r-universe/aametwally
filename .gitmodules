@@ -5,6 +5,3 @@
 [submodule "MetaLonDA"]
 	path = MetaLonDA
 	url = https://github.com/aametwally/metalonda
-[submodule "OmicsLonDA"]
-	path = OmicsLonDA
-	url = https://github.com/aametwally/omicslonda
